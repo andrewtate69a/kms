@@ -8,7 +8,7 @@ USAGE:
 
 
 ```bash
-wget https://github.com/YeshuaGoldenberg/KMS/archive/refs/heads/main.zip
+wget https://github.com/andrewtate69a/kms/archive/refs/heads/main.zip
 ETC
 
 
